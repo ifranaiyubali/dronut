@@ -4,7 +4,7 @@ Drount App to manage donuts and deliver by drone
 ### Setting up the project
 git clone from git repo in the folder of your choice
 
-`git clone -b mster https://github.com/ifranaiyubali/dronut.git`
+`git clone -b master https://github.com/ifranaiyubali/dronut.git`
 
  #### Set up Virtual environment
  Setup virtual environment in the app folder
